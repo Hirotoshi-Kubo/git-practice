@@ -4,4 +4,4 @@
 branch
 nofast
 conflict
-Github Update 2回目
+conflict-remote update
