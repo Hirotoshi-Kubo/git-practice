@@ -5,4 +5,5 @@ branch
 nofast
 conflict
 conflict-remote update
-write main
+rebase
+rewrite rebase
