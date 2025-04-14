@@ -8,4 +8,4 @@ conflict-remote update
 rebase
 rewrite rebase
 rebase用
-stash練習
+stash練習(トラック済み)
